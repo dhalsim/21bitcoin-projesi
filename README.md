@@ -14,15 +14,15 @@ YouTube'un çok izlenen kanallarında (mesela Fatih Altaylı vs) yayınlanmak ü
 
 ### Yöntem
 
-* özel Telegram grubu.
+* Koordinasyon icin telegram grubu.
+* Neden birden çok sunucu olsun?
+  * Birden çok anlatıcının aynı konuda hemfikir olması inandırıcılık açısından iyidir.
+  * İş bölümü yapılabilir.
+  * İçerik daha dinamik olur.
 * Open source GitHub proje
-    * Neden birden çok sunucu olsun?
-        * Birden çok anlatıcının aynı konuda hemfikir olması inandırıcılık açısından iyidir.
-        * İş bölümü yapılabilir.
-        * İçerik daha dinamik olur.
-    * Neden open source:
-        * Başkasının devralması daha kolay.
-        * Çok katılımcılı proje için daha iyi.
+  * Neden open source:
+    * Başkasının devralması daha kolay.
+    * Çok katılımcılı proje için daha iyi.
 
 ---
 
