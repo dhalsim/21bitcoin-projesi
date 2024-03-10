@@ -45,8 +45,8 @@ YouTube'un çok izlenen kanallarında (mesela Fatih Altaylı vs) yayınlanmak ü
 * Icerigin uretimi
 * Soru cevap bölümüne hazırlık olarak: olası sorular seçilir.
 * Uzmanlıklara göre paylaşılır.
-* İş bölümü yapılır.
+  * İş bölümü yapılır.
 * Kendi kanallarımızda test sunumu yayını.
-* Bu sunum'u kanallara da göndeririz.
+  * Bu sunum'u kanallara da göndeririz.
 * Kanallarla irtibata geçilmesi.
 
