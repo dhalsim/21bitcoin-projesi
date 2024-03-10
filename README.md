@@ -33,7 +33,7 @@ YouTube'un çok izlenen kanallarında (mesela Fatih Altaylı vs) yayınlanmak ü
 
 ### Kaynaklar
 
-* [Av. Emre Beylen - Izmir Barosu Sunum: Bitcoin ve Kripto Varlık Hukuku](https://dhalsim.github.io/21bitcoin-projesi/kaan-beylen-sunum/DOC-20230905-WA0005.-_1_.html)
+* [Av. Kaan Beylen - Izmir Barosu Sunum: Bitcoin ve Kripto Varlık Hukuku](https://dhalsim.github.io/21bitcoin-projesi/kaan-beylen-sunum/DOC-20230905-WA0005.-_1_.html)
 
 ---
 
